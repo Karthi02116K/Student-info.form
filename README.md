@@ -24,6 +24,8 @@ apt-gey install php -y
 apt-get install ngrok -y
 ```
 - if can't install by official website from 'ngrok.com'
+- but ngrok is not compulsory
+- you can try another method 
 - now login and verify your email
 - copy your auth token
 - open terminal,then enter
@@ -31,4 +33,7 @@ apt-get install ngrok -y
 ./ngrok --help
 ```
 - for see more information
-- 
+# another method 
+```
+
+```
