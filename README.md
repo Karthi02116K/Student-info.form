@@ -43,6 +43,13 @@ or
 ssh -R 80:localhost:9876 serveo.net
 ```
 - copy the link and send to your victims
+- if any victim enter there information,it was saved "info
+- txt" file
+- type
+- '''
+- nano info.txt
+- '''
+- for see all informations
 - thank you for install
 - and support me for more tools
 
