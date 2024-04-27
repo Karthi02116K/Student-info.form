@@ -23,7 +23,8 @@ apt-get install ssh -y
 apt-gey install php -y
 apt-get install ngrok -y
 ```
-- if can't install by official website from 'ngrok.com'
+- if can't install
+- you can install by official website from 'ngrok.com'
 - but ngrok is not compulsory
 - you can try another method 
 - now login and verify your email
