@@ -1,5 +1,5 @@
 # Student-info.form
-The tool is created for only education purpose only,do not harsh any one,you used collect information about 12th marks from your friends,
+The tool is created for only education purpose only
 # installation 
 ```
 apt update && apt upgrade && apt-get install python && apt-get install python3 && apt-get install nano apt-get install git && git clone https://github.com/Karthi02116K/Student-info.form.git && cd Student-info.form && pip install -r requirements.txt -y
